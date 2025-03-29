@@ -6,4 +6,4 @@ Each folder will containt, at minimum:
   - The solution code
   - A .md file with the explanation fo the solution that I implemented
 
-* All solutions are implemented in Python
+!- All solutions will be implemented in Python for the time being
